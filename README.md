@@ -7,6 +7,8 @@
 [![Tests](https://img.shields.io/badge/tests-8%20passing-brightgreen)](#тесты)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
+**[Открыть case study →](https://jefo.github.io/booking-domain/)**
+
 ---
 
 ## Что это
