@@ -9,6 +9,8 @@
 
 **[Открыть case study →](https://jefo.github.io/booking-domain/)**
 
+<img src="docs/screens/booking-domain/01.png" alt="Вывод тестов Booking Domain" width="720" />
+
 ---
 
 ## Что это
